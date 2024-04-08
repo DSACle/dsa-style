@@ -1,0 +1,67 @@
+@font-face {
+    font-family: manifold dsa;
+    src: url(./manifolddsa/ManifoldDSA-Regular.woff)
+    /* https://www.dsausa.org/wp-content/themes/wordpress-theme-v2/fonts/manifolddsa/ManifoldDSA-Regular.woff */
+}
+
+@font-face {
+    font-family: manifold dsa;
+    src: url(./manifolddsa/ManifoldDSA-Light.woff);
+    font-weight: 100;
+    /* https://www.dsausa.org/wp-content/themes/wordpress-theme-v2/fonts/manifolddsa/ManifoldDSA-Light.woff */
+}
+
+@font-face {
+    font-family: manifold dsa;
+    src: url(./manifolddsa/ManifoldDSA-Bold.woff);
+    font-weight: 600;
+    /* https://www.dsausa.org/wp-content/themes/wordpress-theme-v2/fonts/manifolddsa/ManifoldDSA-Bold.woff */
+}
+
+@font-face {
+    font-family: manifold dsa;
+    src: url(./manifolddsa/ManifoldDSA-ExtraBold.woff);
+    font-weight: 700;
+    /* https://www.dsausa.org/wp-content/themes/wordpress-theme-v2/fonts/manifolddsa/ManifoldDSA-ExtraBold.woff */
+}
+
+@font-face {
+    font-family: manifold dsa;
+    src: url(./manifolddsa/ManifoldDSA-Heavy.woff);
+    font-weight: 900;
+    /* https://www.dsausa.org/wp-content/themes/wordpress-theme-v2/fonts/manifolddsa/ManifoldDSA-Heavy.woff */
+}
+
+@font-face {
+    font-family: styrene b;
+    src: url(./StyreneB/StyreneB-Regular.otf);
+    /* https://www.dsausa.org/wp-content/themes/wordpress-theme-v2/fonts/StyreneB/StyreneB-Regular.otf */
+}
+
+@font-face {
+    font-family: styrene b;
+    src: url(./StyreneB/StyreneB-Light.otf);
+    font-weight: 100;
+    /* https://www.dsausa.org/wp-content/themes/wordpress-theme-v2/fonts/StyreneB/StyreneB-Light.otf */
+}
+
+@font-face {
+    font-family: styrene b;
+    src: url(./StyreneB/StyreneB-Medium.otf);
+    font-weight: 600;
+    /* https://www.dsausa.org/wp-content/themes/wordpress-theme-v2/fonts/StyreneB/StyreneB-Medium.otf */
+}
+
+@font-face {
+    font-family: styrene b;
+    src: url(./StyreneB/StyreneB-Bold.otf);
+    font-weight: 700;
+    /* https://www.dsausa.org/wp-content/themes/wordpress-theme-v2/fonts/StyreneB/StyreneB-Bold.otf */
+}
+
+@font-face {
+    font-family: styrene b;
+    src: url(./StyreneB/StyreneB-Black.otf);
+    font-weight: 900;
+    /* https://www.dsausa.org/wp-content/themes/wordpress-theme-v2/fonts/StyreneB/StyreneB-Black.otf */
+}
